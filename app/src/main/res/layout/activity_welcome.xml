@@ -9,7 +9,7 @@
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/img024"
+        android:src="@drawable/img01"
         android:scaleType="centerCrop" />
 
 </RelativeLayout>

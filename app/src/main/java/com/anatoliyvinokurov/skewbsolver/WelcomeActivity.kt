@@ -7,7 +7,7 @@ import androidx.appcompat.app.AppCompatActivity
 
 class WelcomeActivity : AppCompatActivity() {
 
-    private val delayMillis = 2000L // Delay in milliseconds for showing the welcome screen
+    private val delayMillis = 900L // Delay in milliseconds for showing the welcome screen
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
